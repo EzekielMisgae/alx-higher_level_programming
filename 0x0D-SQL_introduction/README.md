@@ -1,1 +1,1 @@
-This is a readme file for SQL introduction.
+This is a readme file for SQL introduction directory.
